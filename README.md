@@ -112,3 +112,14 @@ Learn to train and evaluate machine learning models for sentiment prediction.
 Be able to interpret and present sentiment-based insights visually and analytically
 
 
+<img width="403" height="208" alt="Screenshot 2025-10-31 120603" src="https://github.com/user-attachments/assets/b809de98-df16-4a99-892b-ba55b83c4537" />
+
+
+<img width="450" height="390" alt="Screenshot 2025-10-31 120540" src="https://github.com/user-attachments/assets/7ab425c4-db23-4bd9-ac0d-07d8e35a3da1" />
+
+<img width="543" height="178" alt="Screenshot 2025-10-31 120527" src="https://github.com/user-attachments/assets/2139124d-ddef-48ab-9319-59424bf5eec4" />
+
+<img width="367" height="169" alt="Screenshot 2025-10-31 120519" src="https://github.com/user-attachments/assets/68f165ac-f922-4299-9efa-41ebc3ce8c5b" />
+
+
+
